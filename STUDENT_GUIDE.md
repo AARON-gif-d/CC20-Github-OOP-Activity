@@ -9,7 +9,8 @@ Check if Git is installed:
 ```bash
 git --version
 ```
-If not installed, download from: [git downloads](https://git-scm.com/downloads)
+If not installed, download from: [git downloads](https://git-scm.com/downloads).
+
 2. Configure Your Git Identity
 Set your Git username and email — this will appear on your commits.
 ```bash
